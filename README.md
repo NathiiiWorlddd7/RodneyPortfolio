@@ -13,9 +13,6 @@ This is my personal portfolio website built to showcase who I am, what I build, 
 - AI engineering and ML/Deep Learning projects  
 - Technical details and case studies  
 - Contact info and professional links
-
-It’s your chance to see exactly what I’ve done — not what I *say* I can do.
-
 ---
 
 ## 🚀 Features
@@ -25,7 +22,6 @@ It’s your chance to see exactly what I’ve done — not what I *say* I can do
 - Clean, minimal, professional layout  
 - Built for clarity — no unnecessary fluff
 
-*(If your portfolio currently lacks concrete project sections or example code/links, add them. A portfolio without real project listings is weak and useless.)*
 
 ---
 
