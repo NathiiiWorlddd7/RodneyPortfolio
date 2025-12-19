@@ -20,7 +20,7 @@ This is my personal portfolio website built to showcase who I am, what I build, 
 - **Responsive modern UI** that adapts to all screen sizes  
 - Showcases skills, projects, and contact methods  
 - Clean, minimal, professional layout  
-- Built for clarity — no unnecessary fluff
+- Built for clarity 
 
 
 ---
