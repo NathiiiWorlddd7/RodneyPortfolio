@@ -1,20 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Rodney Mashele | AI Engineer Portfolio 🌐🤖
 
-# Run and deploy your AI Studio app
+**Live Demo:** https://rodney-portfolio-seven.vercel.app/
 
-This contains everything you need to run your app locally.
+Professional online portfolio showing my AI engineering skills, projects, and contact info.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1s4HQCL-GEmu_pmLO8xTuAls_Bc03vWKH
+---
 
-## Run Locally
+## 🧠 About
 
-**Prerequisites:**  Node.js
+This is my personal portfolio website built to showcase who I am, what I build, and how I think about technology. It highlights:
 
+- AI engineering and ML/Deep Learning projects  
+- Technical details and case studies  
+- Contact info and professional links
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+It’s your chance to see exactly what I’ve done — not what I *say* I can do.
+
+---
+
+## 🚀 Features
+
+- **Responsive modern UI** that adapts to all screen sizes  
+- Showcases skills, projects, and contact methods  
+- Clean, minimal, professional layout  
+- Built for clarity — no unnecessary fluff
+
+*(If your portfolio currently lacks concrete project sections or example code/links, add them. A portfolio without real project listings is weak and useless.)*
+
+---
+
+## 💻 Built With
+
+Describe the tech stack your site *actually uses*. If it’s something like Next.js + Tailwind + Vercel:
+
+- **Next.js** – React framework for fast page rendering  
+- **React** – Component-based frontend  
+- **Tailwind CSS** – Utility-first styling  
+- **Vercel** – Hosting and deployment platform
+
+---
+
+## 📁 Repository Structure
+
+├── Main/ 
+├── components/
+│ ├── About.tsx
+│ ├── Contact.tsx
+│ ├── Hero.tsx
+│ ├── Navbar.tsx
+│ ├── ProjectCard.tsx
+│ ├── Project.tsx
+│ └── Skills.tsx
+├── .gitignore
+├── App.tsx
+├── constants.ts
+├── index.tsx
+├── package.json
+├── README.md
+├── metadata.json
+├── tsconfig.json
+├── types.ts
+└── vite.config.ts
